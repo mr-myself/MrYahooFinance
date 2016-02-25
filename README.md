@@ -1,4 +1,5 @@
 # MrYahooFinance
+[![Build Status](https://travis-ci.org/mr-myself/MrYahooFinance.svg?branch=master)](https://travis-ci.org/mr-myself/MrYahooFinance)
 
 This gem enables you to get the company's settlement in annual and quarter.
 
